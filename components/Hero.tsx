@@ -9,12 +9,12 @@ export default function Hero() {
 
       <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-b-dark leading-tight mb-6">
         Pioneering<br />
-        the Next Wave<br />
+        a New Wave<br />
         of Culture
       </h1>
 
       <p className="max-w-2xl mx-auto text-lg md:text-xl text-b-text mb-10">
-        BBH is a technology-driven firm bringing creative financing and monetizing solutions to diverse IP. We use blockchain, metaverse, and AI to generate new financial opportunities to artists and investors alike.
+        BBH is an AI-driven collective of agents (and a human!) producing literary and artistic endeavors. BBH merges those creative projects with new financing solutions through internally developed applications using blockchain and AI. At BBH, we serve both human and agentic creators across all genres and mediums.
       </p>
 
       <a

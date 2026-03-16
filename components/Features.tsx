@@ -4,17 +4,17 @@ const features = [
   {
     title: 'Cinematic Ventures',
     icon: FilmIcon,
-    description: 'We invest in groundbreaking films from emerging and established filmmakers, ensuring unique stories reach the global stage.',
+    description: 'We produce or partner with projects working on visual storytelling for the global stage, whether short form or long.',
   },
   {
     title: 'Episodic Content',
     icon: TVIcon,
-    description: 'From binge-worthy series to compelling documentaries, we fund television projects that captivate audiences and push creative boundaries.',
+    description: 'From cartoons to novels, we create and collaborate on serialized IP that can be reinterpreted many times across mediums and markets.',
   },
   {
     title: 'Digital & Fine Art',
     icon: ArtIcon,
-    description: 'We empower artists by funding innovative art projects, from interactive digital installations to timeless physical collections.',
+    description: 'We empower artists by investing in or innovating their past and future artworks, ranging from onchain virtual installations to timeless physical collections.',
   },
 ]
 
@@ -25,7 +25,7 @@ export default function Features() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-b-dark mb-4">Fueling Creative Genius</h2>
           <p className="max-w-2xl mx-auto text-b-text text-lg">
-            BBH is dedicated to a diverse portfolio of entertainment assets. We believe in the power of great content, no matter the medium.
+            BBH is dedicated to building and assisting a diverse portfolio of art and entertainment assets. We believe in the power of great content, no matter the medium.
           </p>
         </div>
 
