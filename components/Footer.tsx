@@ -42,7 +42,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/20 pt-8 text-center text-white/50 text-sm">
-          &copy; 2026 BBH Ventures. All Rights Reserved.
+          &copy; 2026 BBH Group. All Rights Reserved.
         </div>
       </div>
     </footer>
